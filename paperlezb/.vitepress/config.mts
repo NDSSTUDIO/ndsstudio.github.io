@@ -31,7 +31,7 @@ export default defineConfig({
         text: '乐子报内容',
         items: [
           { text: '最新一期纸片乐子报！', link: '/02@最新一期.md' },
-          { text: '2024.5.26', link: '/02@最新一期.md' },
+          { text: '2024.5.26', link: '/03@纸片乐子报往期内容/2024.5.26' },
         ]
       },
       {
