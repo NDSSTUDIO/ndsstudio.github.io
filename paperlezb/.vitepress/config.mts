@@ -1,5 +1,5 @@
-import { defineConfig } from 'vitepress'
-
+import { defineConfig } from 'vitepress';
+import timeline from "vitepress-markdown-timeline";
 
 
 // https://vitepress.dev/reference/site-config
@@ -8,6 +8,17 @@ export default defineConfig({
   title: "纸片乐子报",
   description: "纸片乐子报",
   base: '/ndsstudio/',
+  markdown: {
+    // 显示行号
+    lineNumbers: true,
+
+    // 时间线
+    config: (md) => {
+      md.use(timeline);
+    },
+  },
+
+  
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -48,7 +59,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/NDSSTUDIO/ndsstudio' }
     ]
   }
 })
