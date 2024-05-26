@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as e,a1 as _}from"./chunks/framework.okYhLLWt.js";const f=JSON.parse('{"title":"日报重组！欢迎来到乐子纪元","description":"","frontmatter":{},"headers":[],"relativePath":"02@最新一期.md","filePath":"02@最新一期.md"}'),o={name:"02@最新一期.md"},r=_("",3),n=[r];function c(s,i,d,l,h,m){return e(),t("div",null,n)}const u=a(o,[["render",c]]);export{f as __pageData,u as default};

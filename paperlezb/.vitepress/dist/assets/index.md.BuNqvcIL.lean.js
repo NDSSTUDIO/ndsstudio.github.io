@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a1 as r}from"./chunks/framework.okYhLLWt.js";const m=JSON.parse('{"title":"欢迎来到纸片乐子报！","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),o={name:"index.md"},n=r("",7),s=[n];function i(_,d,c,h,l,p){return t(),a("div",null,s)}const u=e(o,[["render",i]]);export{m as __pageData,u as default};
