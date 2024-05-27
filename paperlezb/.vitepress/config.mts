@@ -7,7 +7,7 @@ export default defineConfig({
   
   title: "纸片乐子报",
   description: "纸片乐子报",
-  base: '/',
+  // base: '/',
   markdown: {
     // 显示行号
     lineNumbers: true,
