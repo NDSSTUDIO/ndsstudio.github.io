@@ -73,7 +73,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/NDSSTUDIO/ndsstudio' }
+      { icon: 'github', link: 'https://github.com/NDSSTUDIO/ndsstudio.github.io' }
     ]
   }
 })
