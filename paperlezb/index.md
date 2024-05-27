@@ -1,5 +1,5 @@
 # 欢迎来到纸片乐子报！
-![乐子报logom.png](https://img2.imgtp.com/2024/05/26/wUqWFFWO.png)
+![乐子报logom.png](./srca/wUqWFFWO.png)
 ## 在这里，你可以查看纸片日报及纸片乐子报几乎所有内容！
 - 请查阅侧边栏，找找看罢！
 - 点击放大功能可能存在BUG
@@ -45,9 +45,18 @@
 :::
 
 ## 更新日志
-- 2024.5.27
+
+::: timeline 2024-05-27
 - 添加梗图板块
 - 折叠部分板块，可以手动开启
 - 创建更新日志XD
+:::
+::: timeline 2024-05-27-2
+- 整理图片为本地
+- 部分用户图片加载速度可能变慢
+- 计划加入开关切换图床/github
+- https://img2.imgtp.com/2024/05/26/
+- https://img2.imgtp.com/2024/05/27/
+:::
 
 Power By [VitePress](https://vitepress.dev/)
