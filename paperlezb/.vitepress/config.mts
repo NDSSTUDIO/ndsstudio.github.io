@@ -35,7 +35,21 @@ export default defineConfig({
         ]
       },
       {
+        text: '纸片乐子梗图',
+        collapsible: true,
+        collapsed: true,
+        items: [
+          { text: '大头系列', link: '/05@纸片乐子梗图/2024年5月合集.md' },
+          { text: '萌新教学系列', link: '/05@纸片乐子梗图/纸片萌新教学系列.md' },
+          { text: '纸片乐子人系列', link: '/05@纸片乐子梗图/纸片乐子人系列.md' },
+
+
+        ]
+      },
+            {
         text: '前纸片日报内容',
+        collapsible: true,
+        collapsed: true,
         items: [
           { text: '2024.3.15', link: '/04@前纸片日报内容/01@2024.3.15.md' },
           { text: '2024.3.17', link: '/04@前纸片日报内容/02@2024.3.17.md' },
