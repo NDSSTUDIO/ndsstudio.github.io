@@ -15,6 +15,7 @@ export default {
       DefaultTheme.enhanceApp(ctx);
       // ...
     },
+  
   setup() {
     // Get frontmatter and route
     const { frontmatter } = useData();

@@ -10,6 +10,7 @@
   "dependencies": {
     "busuanzi.pure.js": "^1.0.3",
     "medium-zoom": "^1.1.0",
+    "oh-my-live2d": "^0.19.3",
     "vitepress-markdown-timeline": "^1.2.1",
     "vitepress-plugin-comment-with-giscus": "^1.1.15",
     "vitepress-theme-website": "^1.0.8"

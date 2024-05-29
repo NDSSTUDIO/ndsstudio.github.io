@@ -63,4 +63,7 @@
 ::: timeline 2024-05-29
 - 添加评论功能，基于Github Issue
 :::
+::: timeline 2024-05-29-2
+- 添加一只猫子
+:::
 Power By [VitePress](https://vitepress.dev/)
