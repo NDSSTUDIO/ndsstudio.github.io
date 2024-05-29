@@ -23,7 +23,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: '最新一期', link: '/03@纸片乐子报往期内容/2024.528.md' }
+      { text: '最新一期', link: '/03@纸片乐子报往期内容/2024.5.28.md' }
     ],
 
     sidebar: [
