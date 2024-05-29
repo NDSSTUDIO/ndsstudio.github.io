@@ -60,4 +60,7 @@
 - https://img2.imgtp.com/2024/05/27/
 :::
 
+::: timeline 2024-05-29
+- 添加评论功能，基于Github Issue
+:::
 Power By [VitePress](https://vitepress.dev/)
