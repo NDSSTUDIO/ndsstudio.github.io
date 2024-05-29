@@ -23,14 +23,15 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: '最新一期', link: '/02@最新一期.md' }
+      { text: '最新一期', link: '/03@纸片乐子报往期内容/2024.528.md' }
     ],
 
     sidebar: [
       {
         text: '乐子报内容',
         items: [
-          { text: '最新一期纸片乐子报！', link: '/02@最新一期.md' },
+          { text: '最新一期纸片乐子报！', link: '/03@纸片乐子报往期内容/2024.5.28.md' },
+          { text: '2024.5.27', link: '/03@纸片乐子报往期内容/2024.5.27' },
           { text: '2024.5.26', link: '/03@纸片乐子报往期内容/2024.5.26' },
         ]
       },
