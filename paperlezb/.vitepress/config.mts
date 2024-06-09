@@ -41,6 +41,7 @@ export default defineConfig({
       },
       
       { text: 'FOR YOU', link: '/FORYOU/' },
+      { text: 'PaperCard 史记', link: '/TOG/' },
       { text: '加入乐子报！', link: '/JOIN/' },
       {
         text: '纸片乐子梗图',
