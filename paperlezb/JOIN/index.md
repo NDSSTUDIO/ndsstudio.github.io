@@ -21,10 +21,9 @@
 4. 使用`npm install`命令安装本项目的依赖
 5. 使用`npm run docs:dev`命令启动开发服务器，可以在本地打开预览环境
 6. 编辑内容...
-7. 使用`npm run docs:build`构建
-8. 执行`git init`
-9. 执行`git add -A`
-10. 执行`git commit -m '描述'`（描述例：提交6月6日报道）
-11. 使用`git push -f 你的仓库地址 master:main`
-12. 向网站主仓库提交PullRequest
+7. 执行`git init`
+8. 执行`git add -A`
+9. 执行`git commit -m '描述'`（描述例：提交6月6日报道）
+10. 使用`git push -f 你的仓库地址 master:main`
+11. 向网站主仓库提交PullRequest
 > 部分教程~~因为懒得写了~~参考PaperCard文档

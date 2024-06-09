@@ -1,1 +1,0 @@
-import{_ as e,c as i,o as a,a2 as l}from"./chunks/framework.BpQ0RviQ.js";const p=JSON.parse('{"title":"加入纸片乐子报！","description":"","frontmatter":{},"headers":[],"relativePath":"JOIN/index.md","filePath":"JOIN/index.md"}'),r={name:"JOIN/index.md"},t=l("",8),o=[t];function d(n,c,s,h,_,m){return a(),i("div",null,o)}const f=e(r,[["render",d]]);export{p as __pageData,f as default};
