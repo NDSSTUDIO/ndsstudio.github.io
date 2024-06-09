@@ -1,5 +1,5 @@
 # 欢迎来到纸片乐子报！
-![乐子报logom.png](./srca/wUqWFFWO.png)
+![乐子报logom.webp](./srca/wUqWFFWO.webp)
 ## 在这里，你可以查看纸片日报及纸片乐子报几乎所有内容！
 - [最新一期戳这里！](/LEZ-NEWS/)
 - 请查阅侧边栏，找找看罢！
@@ -44,24 +44,6 @@
 :::
 
 ## 更新日志
-
-::: timeline 2024-05-27
-- 添加梗图板块
-- 折叠部分板块，可以手动开启
-- 创建更新日志XD
-:::
-::: timeline 2024-05-27-2
-- 整理图片为本地
-- 部分用户图片加载速度可能变慢
-- 计划加入开关切换图床/github
-- https://img2.imgtp.com/2024/05/26/
-- https://img2.imgtp.com/2024/05/27/
-:::
-
-::: timeline 2024-05-29
-- 添加评论功能，基于Github Issue
-:::
-::: timeline 2024-05-29-2
-- 添加一只猫子
-:::
+- 请查看 [Github Commits](https://github.com/NDSSTUDIO/ndsstudio.github.io/commits)<br />
+<br />
 Power By [VitePress](https://vitepress.dev/)
