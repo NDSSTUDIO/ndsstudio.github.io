@@ -36,9 +36,12 @@ export default defineConfig({
           { text: '2024.5.28', link: '/LEZ-NEWS/2024.5.28' },
           { text: '2024.5.27', link: '/LEZ-NEWS/2024.5.27' },
           { text: '2024.5.26', link: '/LEZ-NEWS/2024.5.26' },
-          { text: '加入乐子报！', link: '/JOIN/' },
+          
         ]
       },
+      
+      { text: 'FOR YOU', link: '/FORYOU/' },
+      { text: '加入乐子报！', link: '/JOIN/' },
       {
         text: '纸片乐子梗图',
         collapsible: true,
@@ -51,6 +54,7 @@ export default defineConfig({
 
         ]
       },
+      
             {
         text: '前纸片日报内容',
         collapsible: true,
