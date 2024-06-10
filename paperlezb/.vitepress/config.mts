@@ -31,6 +31,7 @@ export default defineConfig({
         text: '乐子报内容',
         items: [
           { text: '最新一期纸片乐子报！', link: '/LEZ-NEWS/' },
+          { text: '2024.6.6', link: '/LEZ-NEWS/2024.6.6.md' },
           { text: '2024.6.4', link: '/LEZ-NEWS/2024.6.4.md' },
           { text: '2024.5.29', link: '/LEZ-NEWS/2024.5.29' },
           { text: '2024.5.28', link: '/LEZ-NEWS/2024.5.28' },
