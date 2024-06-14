@@ -2,36 +2,45 @@
   "hash": "47be110c",
   "configHash": "f71adbea",
   "lockfileHash": "f29bece8",
-  "browserHash": "5c177929",
+  "browserHash": "ed55ccfb",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "685f1c32",
+      "fileHash": "58204675",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../../node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "300b0e73",
+      "fileHash": "b595c46c",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../../node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "2a23aed5",
+      "fileHash": "d3c66b7d",
       "needsInterop": false
     },
     "oh-my-live2d": {
       "src": "../../../../node_modules/oh-my-live2d/dist/index.js",
       "file": "oh-my-live2d.js",
-      "fileHash": "e735dbba",
+      "fileHash": "f495e582",
+      "needsInterop": false
+    },
+    "vitepress-plugin-comment-with-giscus": {
+      "src": "../../../../node_modules/vitepress-plugin-comment-with-giscus/lib/giscus.js",
+      "file": "vitepress-plugin-comment-with-giscus.js",
+      "fileHash": "b6b130da",
       "needsInterop": false
     }
   },
   "chunks": {
     "chunk-RY5ODQAQ": {
       "file": "chunk-RY5ODQAQ.js"
+    },
+    "giscus-aTimukGI-VEKOX2WD": {
+      "file": "giscus-aTimukGI-VEKOX2WD.js"
     },
     "chunk-Y2F7D3TJ": {
       "file": "chunk-Y2F7D3TJ.js"
