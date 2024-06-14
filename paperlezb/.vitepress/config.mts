@@ -28,7 +28,7 @@ export default defineConfig({
 
     sidebar: [
       { text: '最新一期', link: '/news/' },
-      { text: '加入我们！', link: '/join/' },
+      { text: '加入我们！', link: '/join.md' },
       {
         text: '前纸片乐子报内容',
         collapsible: true,
