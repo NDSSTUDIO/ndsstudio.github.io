@@ -1,0 +1,1 @@
+import{_ as e,c as i,o as a,a4 as l}from"./chunks/framework.2bCd9jje.js";const f=JSON.parse('{"title":"加入物语日报！","description":"","frontmatter":{},"headers":[],"relativePath":"join/index.md","filePath":"join/index.md"}'),r={name:"join/index.md"},t=l("",7),o=[t];function n(d,c,s,h,_,m){return a(),i("div",null,o)}const p=e(r,[["render",n]]);export{f as __pageData,p as default};
