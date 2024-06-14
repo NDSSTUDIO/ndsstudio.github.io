@@ -4,7 +4,7 @@ import timeline from "vitepress-markdown-timeline";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  
+  ignoreDeadLinks: true,
   title: "物语日报",
   description: "物语日报",
   // base: '/',
